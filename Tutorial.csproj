@@ -46,10 +46,15 @@
     <Compile Include="4Q.cs" />
     <Compile Include="5Q.cs" />
     <Compile Include="6Q.cs" />
+    <Compile Include="eight.cs" />
+    <Compile Include="eleven.cs" />
+    <Compile Include="nine.cs" />
     <Compile Include="oddeven.cs" />
     <Compile Include="Profile.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="seven.cs" />
+    <Compile Include="ten.cs" />
     <Compile Include="work.cs" />
     <Compile Include="Array.cs" />
   </ItemGroup>
