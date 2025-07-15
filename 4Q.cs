@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace ConsoleApplication1
+namespace Tutorial
 {
-    class Program
+    class _4Q
     {
         static void Main(string[] args)
         {
