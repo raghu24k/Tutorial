@@ -14,9 +14,18 @@ namespace Tutorial
             string name = Console.ReadLine();
 
             Console.Write("Enter Your Gender: (M/F): ");
+            //string M, N;
             string gender = Console.ReadLine();
-            
-            if()
+
+            if (gender == "M") 
+            {
+                Console.WriteLine("Hello Mr. " + name);
+
+            }
+            else
+            {
+                Console.WriteLine("Hello Ms. " + name);
+            }
         }
     }
 }
